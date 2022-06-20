@@ -18,3 +18,4 @@ updated
 SSH test
 
 push test
+gitee test
